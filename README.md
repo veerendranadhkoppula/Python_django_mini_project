@@ -1,0 +1,1 @@
+# Python_django_mini_project
